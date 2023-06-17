@@ -25,7 +25,7 @@ The project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
-The project is developed and maintained by exef1le.
+The project is designed and supported by me, exef1le.
 
 ## Additional Resources
 
