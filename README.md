@@ -22,7 +22,7 @@ Each task is contained in a separate file with the `.c` extension. To view the c
 [3 lesson on the 6 contest](./lesson%203/lesson%203.c) <br>
 [4 lesson on the 6 contest](./lesson%204/lesson%204.c) <br>
 [5 lesson on the 6 contest](./lesson%205/lesson%205.c) <br>
-[6 lesson on the 6 contest](./lesson%206/lesson%206.c)
+[6 lesson on the 6 contest](./lesson%206/lesson%206.c) <br>
 
 
 
