@@ -51,22 +51,22 @@ Each task is contained in a separate file with the `.c` extension. To view the c
     <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%202/Lesson%202.c">2 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%203/lesson%203.c">3 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%203/Lesson%203.c">3 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%204/lesson%204.c">4 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%204/Lesson%204.c">4 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%205/lesson%205.c">5 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%205/Lesson%205.c">5 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%206/lesson%206.c">6 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%206/Lesson%206.c">6 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%207/lesson%207.c">7 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%207/Lesson%207.c">7 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%208/lesson%208.c">8 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%208/Lesson%208.c">8 lesson on the 7 contest</a></td>
   </tr>
 </table>
 
