@@ -1,5 +1,6 @@
 
 # Simple C Programming Tasks
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 Welcome to the Simple C Programming Tasks project! Here you will find a collection of tasks with code examples in the C programming language that can be helpful for learning or practicing.
 
