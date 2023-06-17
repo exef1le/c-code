@@ -22,22 +22,22 @@ Each task is contained in a separate file with the `.c` extension. To view the c
 
 <table>
   <tr>
-    <td><a href="./lesson%201/lesson%201.c" style="color: red;">1 lesson on the 6 contest</a></td>
+    <td><a href="./lesson%201/lesson%201.c" style="color: #FF0000;">1 lesson on the 6 contest</a></td>
   </tr>
   <tr>
-    <td><a href="./lesson%202/lesson%202.c" style="color: red;">2 lesson on the 6 contest</a></td>
+    <td><a href="./lesson%202/lesson%202.c" style="color: #FF0000;">2 lesson on the 6 contest</a></td>
   </tr>
   <tr>
-    <td><a href="./lesson%203/lesson%203.c" style="color: red;">3 lesson on the 6 contest</a></td>
+    <td><a href="./lesson%203/lesson%203.c" style="color: #FF0000;">3 lesson on the 6 contest</a></td>
   </tr>
   <tr>
-    <td><a href="./lesson%204/lesson%204.c" style="color: red;">4 lesson on the 6 contest</a></td>
+    <td><a href="./lesson%204/lesson%204.c" style="color: #FF0000;">4 lesson on the 6 contest</a></td>
   </tr>
   <tr>
-    <td><a href="./lesson%205/lesson%205.c" style="color: red;">5 lesson on the 6 contest</a></td>
+    <td><a href="./lesson%205/lesson%205.c" style="color: #FF0000;">5 lesson on the 6 contest</a></td>
   </tr>
   <tr>
-    <td><a href="./lesson%206/lesson%206.c" style="color: red;">6 lesson on the 6 contest</a></td>
+    <td><a href="./lesson%206/lesson%206.c" style="color: #FF0000;">6 lesson on the 6 contest</a></td>
   </tr>
 </table>
 
