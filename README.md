@@ -66,7 +66,7 @@ Each task is contained in a separate file with the `.c` extension. To view the c
     <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%207/Lesson%207.c">7 lesson on the 7 contest</a></td>
   </tr>
    <tr>
-    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesson%208/Lesson%208.c">8 lesson on the 7 contest</a></td>
+    <td><a href="./Fundamentals%20of%20Programming%207%20contest/Lesoon%208/Lesson%208.c">8 lesson on the 7 contest</a></td>
   </tr>
 </table>
 
