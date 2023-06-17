@@ -19,26 +19,33 @@ Each task is contained in a separate file with the `.c` extension. To view the c
 ## All Codes with Answers
 **There will be links for the 6th contest you can look at or download them**<br>
 
+<style>
+.red-text {
+  color: red;
+}
+</style>
+
 <table>
   <tr>
-    <td><font color="red">[1 lesson on the 6 contest](./lesson%201/lesson%201.c)</font></td>
+    <td class="red-text">[1 lesson on the 6 contest](./lesson%201/lesson%201.c)</td>
   </tr>
   <tr>
-    <td><font color="red">[2 lesson on the 6 contest](./lesson%202/lesson%202.c)</font></td>
+    <td class="red-text">[2 lesson on the 6 contest](./lesson%202/lesson%202.c)</td>
   </tr>
   <tr>
-    <td><font color="red">[3 lesson on the 6 contest](./lesson%203/lesson%203.c)</font></td>
+    <td class="red-text">[3 lesson on the 6 contest](./lesson%203/lesson%203.c)</td>
   </tr>
   <tr>
-    <td><font color="red">[4 lesson on the 6 contest](./lesson%204/lesson%204.c)</font></td>
+    <td class="red-text">[4 lesson on the 6 contest](./lesson%204/lesson%204.c)</td>
   </tr>
   <tr>
-    <td><font color="red">[5 lesson on the 6 contest](./lesson%205/lesson%205.c)</font></td>
+    <td class="red-text">[5 lesson on the 6 contest](./lesson%205/lesson%205.c)</td>
   </tr>
   <tr>
-    <td><font color="red">[6 lesson on the 6 contest](./lesson%206/lesson%206.c)</font></td>
+    <td class="red-text">[6 lesson on the 6 contest](./lesson%206/lesson%206.c)</td>
   </tr>
 </table>
+
 
 
 
