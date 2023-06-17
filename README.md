@@ -18,11 +18,11 @@ Each task is contained in a separate file with the `.c` extension. To view the c
 ## All Codes with Answers
 **There will be links for the 6th contest you can look at or download them**
 [1 lesson on the 6 contest ](./lesson%201/lesson%201.c)
-[2 lesson on the 6 contest ](./lesson%202/lesson%202.c)
-[3 lesson on the 6 contest ](./lesson%203/lesson%203.c)
-[4 lesson on the 6 contest ](./lesson%204/lesson%204.c)
-[5 lesson on the 6 contest ](./lesson%205/lesson%205.c)
-[6 lesson on the 6 contest ](./lesson%206/lesson%206.c)
+br[2 lesson on the 6 contest ](./lesson%202/lesson%202.c)
+br[3 lesson on the 6 contest ](./lesson%203/lesson%203.c)
+br[4 lesson on the 6 contest ](./lesson%204/lesson%204.c)
+br[5 lesson on the 6 contest ](./lesson%205/lesson%205.c)
+br[6 lesson on the 6 contest ](./lesson%206/lesson%206.c)
 
 
 
