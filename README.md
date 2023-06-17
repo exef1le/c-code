@@ -19,12 +19,6 @@ Each task is contained in a separate file with the `.c` extension. To view the c
 ## All Codes with Answers
 **There will be links for the 6th contest you can look at or download them**<br>
 
-<style>
-.red-text {
-  color: red;
-}
-</style>
-
 <table>
   <tr>
     <td class="red-text">[1 lesson on the 6 contest](./lesson%201/lesson%201.c)</td>
