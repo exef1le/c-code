@@ -16,7 +16,7 @@ In this repository, you will find files with C programming tasks. You can browse
 Each task is contained in a separate file with the `.c` extension. To view the code, simply open the respective file in the repository and copy its contents.
 
 ## All Codes with Answers
-**There will be links for the 6th contest you can look at or download them**
+**There will be links for the 6th contest you can look at or download them**<br>
 [1 lesson on the 6 contest](./lesson%201/lesson%201.c) <br>
 [2 lesson on the 6 contest](./lesson%202/lesson%202.c) <br>
 [3 lesson on the 6 contest](./lesson%203/lesson%203.c) <br>
