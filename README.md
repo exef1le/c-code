@@ -41,6 +41,7 @@ Each task is contained in a separate file with the `.c` extension. To view the c
     <td><a href="./lesson%206/lesson%206.c">6 lesson on the 6 contest</a></td>
   </tr>
 </table>
+**Now let's go through the 7th contest**
 
 
 
