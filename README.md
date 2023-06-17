@@ -16,7 +16,9 @@ In this repository, you will find files with C programming tasks. You can browse
 Each task is contained in a separate file with the `.c` extension. To view the code, simply open the respective file in the repository and copy its contents.
 
 ## All Codes with Answers
-Первый код (Lesson 1.c)
+[Скачать примерный файл](./lesson 1.c)
+
+
 
 
 
